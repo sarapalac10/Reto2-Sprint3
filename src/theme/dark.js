@@ -7,7 +7,8 @@ const themeDark = extendTheme({
                 backgroundImage: "url('https://res.cloudinary.com/sarapalacio01/image/upload/v1646698711/Reto2-Sprint3/bg-desktop-dark_l6xeef.jpg')",
                 backgroundPosition: "cover",
                 backgroundRepeat: "no-repeat",
-                bg: 'gray.800'
+                bg: 'gray.800',
+                width: '100%',
             },
             input: {
                 bg: 'gray.800',
